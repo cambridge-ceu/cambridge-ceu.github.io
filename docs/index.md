@@ -4,8 +4,6 @@
 layout: home
 ---
 
-# Cambridge University Cardiovascular Epidemiology Unit
-
 ## Repositories
 
 * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/)
