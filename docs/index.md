@@ -4,6 +4,8 @@
 layout: home
 ---
 
+# Repositories
+
 ### GitHub Pages
 
 * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/)
@@ -12,7 +14,7 @@ layout: home
 * CEU-scientific-meetings, [https://cambridge-ceu.github.io/CEU-scientific-meetings/](https://cambridge-ceu.github.io/CEU-scientific-meetings/)
 * pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/)
 
-### GitHub repositories
+### GitHub Repositories
 
 * phenoscanner, [https://github.com/cambridge-ceu/phenoscanner](https://github.com/cambridge-ceu/phenoscanner)
 * ProGem, [https://github.com/cambridge-ceu/ProGeM](https://github.com/cambridge-ceu/ProGeM)
