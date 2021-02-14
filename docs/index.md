@@ -13,7 +13,7 @@ layout: home
    * CEU-scientific-meetings, [https://cambridge-ceu.github.io/CEU-scientific-meetings/](https://cambridge-ceu.github.io/CEU-scientific-meetings/)
    * pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/)
 
-* Repositories
+* Repositories (more from [https://github.com/cambridge-ceu](https://github.com/cambridge-ceu))
   * phenoscanner, [https://github.com/cambridge-ceu/phenoscanner](https://github.com/cambridge-ceu/phenoscanner)
   * ProGem, [https://github.com/cambridge-ceu/ProGeM](https://github.com/cambridge-ceu/ProGeM)
   * turboqq, [https://github.com/cambridge-ceu/turboqq](https://github.com/cambridge-ceu/turboqq)
