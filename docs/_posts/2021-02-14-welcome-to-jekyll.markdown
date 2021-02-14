@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to cambridge-ceu!"
-date:   2021-02-14 20:34:48 +0000
+title:  "Welcome to cambridge-ceu"
+date:   2021-02-14 21:09:45 +0000
 categories: jekyll update
 ---
 to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To add new posts in the `_posts` `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+See also
 
 {% highlight ruby %}
 def print_hi(name)

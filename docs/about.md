@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Cambridge University Cardiovascular Epidemiology Unit
-
-Documentation: [jekyllrb.com](https://jekyllrb.com/)
+Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 Source code for Minima:
 [jekyll][jekyll-organization] /
@@ -15,5 +13,6 @@ Source code for Minima:
 Source code for Jekyll:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
+
 
 [jekyll-organization]: https://github.com/jekyll
