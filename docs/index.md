@@ -1,11 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Layout: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 ---
-
-# cambridge-ceu
 
 **Cambridge University Cardiovascular Epidemiology Unit**
 
