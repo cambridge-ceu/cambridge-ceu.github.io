@@ -8,11 +8,11 @@ Cambridge University Cardiovascular Epidemiology Unit
 
 Documentation: [jekyllrb.com](https://jekyllrb.com/)
 
-Source code for Minima at GitHub:
+Source code for Minima:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-Source code for Jekyll at GitHub:
+Source code for Jekyll:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 

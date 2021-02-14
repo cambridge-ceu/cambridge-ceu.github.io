@@ -4,7 +4,7 @@
 layout: home
 ---
 
-**Cambridge University Cardiovascular Epidemiology Unit**
+# Cambridge University Cardiovascular Epidemiology Unit
 
 ## Repositories
 
