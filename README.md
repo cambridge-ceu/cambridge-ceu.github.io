@@ -2,7 +2,7 @@
 
 **Cambridge University Cardiovascular Epidemiology Unit**
 
-## A list of repositories
+## Repositories
 
 * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/)
 * GitHub-matters, [https://cambridge-ceu.github.io/GitHub-matters/](https://cambridge-ceu.github.io/GitHub-matters/)
