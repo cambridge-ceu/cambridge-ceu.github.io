@@ -1,3 +1,3 @@
-# cambridge-ceu.github.io
+# cambridge-ceu
 
-Cambridge University Cardiovascular Epidemiology Unit
+**Cambridge University Cardiovascular Epidemiology Unit**
