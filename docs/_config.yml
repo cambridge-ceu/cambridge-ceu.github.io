@@ -3,23 +3,15 @@
 # 'bundle exec jekyll serve'.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# These are used to personalize your new site in the HTML files,
+# via {{ site.myvariable }}.
 title: cambridge-ceu
 email: your-email@example.com
 description: >-
-  Jekyll documentation: [jekyllrb.com](https://jekyllrb.com/),
-  Source code for Minima:
-  [jekyll][jekyll-organization] /
-  [minima](https://github.com/jekyll/minima),
-  Source code for Jekyll:
-  [jekyll][jekyll-organization] /
-  [jekyll](https://github.com/jekyll/jekyll).
-  [jekyll-organization]: https://github.com/jekyll
-  It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Jekyll documentation: https://jekyllrb.com/,
+  Source code for Minima: https://github.com/jekyll/minima,
+  Source code for Jekyll: https://github.com/jekyll/jekyll.
+  To appear in document head meta (for Google search results) and feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -32,8 +24,6 @@ plugins:
   - jekyll-feed
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
