@@ -1,29 +1,19 @@
-# Welcome to cambridge-ceu!
-#
-# 'bundle exec jekyll serve'.
-
-# Site settings
-# These are used to personalize your new site in the HTML files,
-# via {{ site.myvariable }}.
 title: cambridge-ceu
 email: to-be-set-up-email@cam.ac.uk
 description: >-
-  Jekyll documentation: https://jekyllrb.com/,
-  Source code for Minima: https://github.com/jekyll/minima,
-  Source code for Jekyll: https://github.com/jekyll/jekyll.
-  To appear in document head meta (for Google search results) and feed.xml site description.
+  Resouces: https://jekyllrb.com/resources/,
+  Minima: https://github.com/jekyll/minima,
+  Document head meta (for Google search) and feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
