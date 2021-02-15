@@ -4,7 +4,7 @@
 layout: home
 ---
 
-### Pages, Repositories and Posts
+### Pages, Selected repositories and posts
 
 * Pages
    * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/)
