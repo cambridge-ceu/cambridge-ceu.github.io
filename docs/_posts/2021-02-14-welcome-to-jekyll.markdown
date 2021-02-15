@@ -7,7 +7,7 @@ categories: jekyll update
 
 New posts in the `_posts` `YYYY-MM-DD-name-of-post.ext` include the necessary front matter.
 
-See also
+Syntax highlight:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -17,6 +17,8 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-[jekyll-docs]: https://jekyllrb.com/docs/home,
-[jekyll-gh]:   https://github.com/jekyll/jekyll,
-[jekyll-talk]: https://talk.jekyllrb.com/.
+[jekyll-docs][jekyll-docs], [jekyll-gh][jekyll-gh] and [jekyll-talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

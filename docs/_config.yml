@@ -6,15 +6,15 @@ description: >-
   Document head meta (for Google search) and feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  jekyll
+twitter_username: jekyllrb
 
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
