@@ -8,6 +8,8 @@ All repositories
 
 [https://github.com/cambridge-ceu](https://github.com/cambridge-ceu))
 
+---
+
 Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 Source code for Minima:
