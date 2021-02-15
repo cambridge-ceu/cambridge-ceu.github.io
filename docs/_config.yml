@@ -6,7 +6,7 @@
 # These are used to personalize your new site in the HTML files,
 # via {{ site.myvariable }}.
 title: cambridge-ceu
-email: to-be-setup-email@cam.ac.uk
+email: to-be-set-up-email@cam.ac.uk
 description: >-
   Jekyll documentation: https://jekyllrb.com/,
   Source code for Minima: https://github.com/jekyll/minima,
