@@ -9,10 +9,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cambridge-ceu
 # twitter_username: jekyllrb
 
+author:
+  name: maintainer
+  email: "to-be-set-up-email@cam.ac.com"
+
+header_pages:
+  - about.md
+  - repositories.md
+
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
 
 exclude:
   - Gemfile

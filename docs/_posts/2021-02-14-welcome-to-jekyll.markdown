@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to cambridge-ceu!"
+title:  "A post"
 date:   2021-02-14 21:09:45 +0000
 categories: jekyll update
 ---
