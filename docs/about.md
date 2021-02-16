@@ -10,4 +10,4 @@ This repository contains software/documents created at the CEU. A full list is a
 
 or the icon at the bottom of this page.
 
-The topics covers but is not limited to the multi-omics analysis.
+The topics cover but are not limited to the multi-omics analysis.
