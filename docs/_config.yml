@@ -1,7 +1,7 @@
 title: " "
 email: " "
 description: >-
-https://jekyllrb.com/resources/, Google search meta and site description feed.xml.
+  https://jekyllrb.com/resources/, Google search meta and site description feed.xml.
 baseurl: "" # site subpath such as /blog
 url: "https://cambridge-ceu.github.io/"
 github_username:  cambridge-ceu
