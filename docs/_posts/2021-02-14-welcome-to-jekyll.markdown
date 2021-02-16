@@ -5,7 +5,7 @@ date:   2021-02-14 21:09:45 +0000
 categories: jekyll update
 ---
 
-New posts in the `_posts` `YYYY-MM-DD-name-of-post.ext` include the necessary front matter.
+New post `YYYY-MM-DD-name-of-post.ext` in `_posts` with the necessary front matter.
 
 Syntax highlight:
 
