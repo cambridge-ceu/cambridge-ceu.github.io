@@ -1,6 +1,5 @@
 title: cambridge-ceu
-name: maintainer
-email: to-be-set-up-email@cam.ac.uk
+# email: to-be-set-up-email@cam.ac.uk
 description: >-
   Resouces: https://jekyllrb.com/resources/.
   Document head meta (for Google search) and feed.xml site description.
