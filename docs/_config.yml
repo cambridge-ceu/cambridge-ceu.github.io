@@ -1,4 +1,5 @@
 title: cambridge-ceu
+name: maintainer
 email: to-be-set-up-email@cam.ac.uk
 description: >-
   Resouces: https://jekyllrb.com/resources/.
@@ -7,14 +8,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cambridge-ceu
 # twitter_username: jekyllrb
-
-author:
-  name: maintainer
-  email: "to-be-set-up-email@cam.ac.com"
-
-header_pages:
-  - about.md
-  - index.md
 
 markdown: kramdown
 theme: minima
