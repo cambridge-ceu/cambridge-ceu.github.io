@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /all repositories/
+permalink: /about/
 ---
 
 This repository contains software/documents created at the CEU. A full list is available from
