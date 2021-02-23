@@ -12,7 +12,7 @@ layout: home
    * pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/)
 
 * Repositories
-  * phenoscanner, [![](github.png)](https://github.com/cambridge-ceu/phenoscanner)
-  * ProGem, [![](github.png)](https://github.com/cambridge-ceu/ProGeM)
-  * turboqq, [![](github.png)](https://github.com/cambridge-ceu/turboqq)
-  * turboman, [![](github.png)](https://github.com/cambridge-ceu/turboman)
+  * phenoscanner, [![](github.jpg)](https://github.com/cambridge-ceu/phenoscanner)
+  * ProGem, [![](github.jpg)](https://github.com/cambridge-ceu/ProGeM)
+  * turboqq, [![](github.jpg)](https://github.com/cambridge-ceu/turboqq)
+  * turboman, [![](github.jpg)](https://github.com/cambridge-ceu/turboman)
