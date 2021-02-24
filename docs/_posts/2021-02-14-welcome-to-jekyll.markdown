@@ -11,6 +11,8 @@ A post is a file `YYYY-MM-DD-name-of-post.ext` in `_posts` with the required fro
 
 <!--more-->
 
+---
+
 ## NOTES
 
 Syntax highlight:
