@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Repositories
 ---
 
 * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/) [![](github.png)](https://github.com/cambridge-ceu/csd3)
