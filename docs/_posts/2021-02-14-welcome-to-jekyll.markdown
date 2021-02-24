@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Welcome to cambridge-ceu!"
 date:   2021-02-14 21:09:45 +0000
+aside:
+  toc
 categories: jekyll update
 ---
 
-# Welcome to cambridge-ceu!
+A post is a file `YYYY-MM-DD-name-of-post.ext` in `_posts` with the required front matter.
 
 <!--more-->
 
 ## NOTES
-
-A post is a file `YYYY-MM-DD-name-of-post.ext` in `_posts` with the required front matter.
 
 Syntax highlight:
 
