@@ -9,8 +9,8 @@ github_username:  cambridge-ceu
 
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+# - jekyll-feed
 
 minima:
   skin: dark
@@ -18,7 +18,7 @@ minima:
 header_pages:
   - about.md
   - selected.md
-  - forked.md
+  - external.md
 
 exclude:
   - Gemfile
