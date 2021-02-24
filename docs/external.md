@@ -1,6 +1,6 @@
 ---
 layout: page
-title: External repositories
+title: Hosted repositories
 permalink: /external/
 ---
 

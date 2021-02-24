@@ -16,9 +16,9 @@ minima:
   skin: dark
 
 header_pages:
-  - about.md
   - index.md
   - external.md
+  - about.md
 
 exclude:
   - Gemfile

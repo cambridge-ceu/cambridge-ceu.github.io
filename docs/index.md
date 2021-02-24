@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Selected contents
+title: Home
 ---
 
 ### Pages and repositories
