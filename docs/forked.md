@@ -1,6 +1,8 @@
 ---
-layout: home
+layout: page
 show_title: false
+title: Forked
+permalink: /forked/
 ---
 
 * Forked repositories
