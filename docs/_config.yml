@@ -17,7 +17,7 @@ minima:
 
 header_pages:
   - about.md
-  - selected.md
+  - index.md
   - external.md
 
 exclude:
