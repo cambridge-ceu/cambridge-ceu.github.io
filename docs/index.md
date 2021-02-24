@@ -7,9 +7,9 @@ title: Home
 
 * Pages
    * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/)
-   * GitHub-matters, [https://cambridge-ceu.github.io/GitHub-matters/](https://cambridge-ceu.github.io/GitHub-matters/)
    * CEU-journal-club, [https://cambridge-ceu.github.io/CEU-journal-club/](https://cambridge-ceu.github.io/CEU-journal-club/)
    * CEU-scientific-meetings, [https://cambridge-ceu.github.io/CEU-scientific-meetings/](https://cambridge-ceu.github.io/CEU-scientific-meetings/)
+   * GitHub-matters, [https://cambridge-ceu.github.io/GitHub-matters/](https://cambridge-ceu.github.io/GitHub-matters/)
 
 * Repositories
   * phenoscanner [![](github.png)](https://github.com/cambridge-ceu/phenoscanner)
