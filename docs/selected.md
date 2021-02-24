@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Selected contents
 show_title: false
 ---
 
