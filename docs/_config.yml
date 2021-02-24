@@ -15,6 +15,11 @@ plugins:
 minima:
   skin: dark
 
+header_pages:
+  - about.md
+  - selected.md
+  - forked.md
+
 exclude:
   - Gemfile
   - Gemfile.lock

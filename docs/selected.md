@@ -17,7 +17,3 @@ show_title: false
   * ProGem [![](github.png)](https://github.com/cambridge-ceu/ProGeM)
   * turboqq [![](github.png)](https://github.com/cambridge-ceu/turboqq)
   * turboman [![](github.png)](https://github.com/cambridge-ceu/turboman)
-
-* Forked repositories
-  * METAL [![](github.png)](https://github.com/cambridge-ceu/METAL)
-  * TwoSampleMR [https://mrcieu.github.io/TwoSampleMR/](https://mrcieu.github.io/TwoSampleMR/) [![](github.png)](https://github.com/cambridge-ceu/TwoSampleMR)
