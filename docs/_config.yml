@@ -1,16 +1,16 @@
 title: " "
 email: " "
 description: >-
-  https://jekyllrb.com/resources/, Google search meta and site description feed.xml.
-baseurl: "" # site subpath such as /blog
+  Software/documents created at the CEU linking topics which cover but are not limited to the multi-omics analysis.
+baseurl: ""
 url: "https://cambridge-ceu.github.io/"
 github_username:  cambridge-ceu
-# twitter_username: jekyllrb
+twitter_username: clin_hr
 
 markdown: kramdown
 theme: minima
-# plugins:
-# - jekyll-feed
+plugins:
+  - jekyll-feed
 
 minima:
   skin: dark
