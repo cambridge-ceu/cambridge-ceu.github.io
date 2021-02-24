@@ -12,7 +12,5 @@ title: Home
    * GitHub-matters, [https://cambridge-ceu.github.io/GitHub-matters/](https://cambridge-ceu.github.io/GitHub-matters/)
 
 * Repositories
-  * phenoscanner [![](github.png)](https://github.com/cambridge-ceu/phenoscanner)
-  * ProGem [![](github.png)](https://github.com/cambridge-ceu/ProGeM)
   * turboman [![](github.png)](https://github.com/cambridge-ceu/turboman)
   * turboqq [![](github.png)](https://github.com/cambridge-ceu/turboqq)
