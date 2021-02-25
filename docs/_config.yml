@@ -19,18 +19,11 @@ minima:
 jekyll-archives:
   enabled: all
   layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 
 header_pages:
   - index.md
   - external.md
   - about.md
-  - archive.md
 
 exclude:
   - Gemfile
