@@ -10,6 +10,8 @@ This repository contains software/documents created at the CEU. A full list is a
 
 [https://github.com/cambridge-ceu](https://github.com/cambridge-ceu)
 
-or the icon at the bottom of this page. The the original image as shown here, from which the ![](github.png) image was derived, is greatly acknowledged.
+or the icon at the bottom of this page.
 
 The topics cover but are not limited to multi-omics analysis.
+
+The the original image as shown here, from which the ![](github.png) image was derived, is greatly acknowledged.
