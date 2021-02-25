@@ -14,4 +14,6 @@ or the icon at the bottom of this page.
 
 The topics cover but are not limited to multi-omics analysis.
 
+---
+
 The the original image as shown here, from which the ![](github.png) image was derived, is greatly acknowledged.
