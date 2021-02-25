@@ -30,6 +30,7 @@ header_pages:
   - index.md
   - external.md
   - about.md
+  - archive.md
 
 exclude:
   - Gemfile
