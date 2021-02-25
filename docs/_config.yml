@@ -16,10 +16,6 @@ plugins:
 minima:
   skin: dark
 
-jekyll-archives:
-  enabled: all
-  layout: archive
-
 header_pages:
   - index.md
   - external.md
