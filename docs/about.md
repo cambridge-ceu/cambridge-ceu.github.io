@@ -16,4 +16,4 @@ The topics cover but are not limited to multi-omics analysis.
 
 ---
 
-Our beloved ![](github.png) was born from the great figure shown here.
+Our beloved ![](github.svg) was born from the great figure shown here.
