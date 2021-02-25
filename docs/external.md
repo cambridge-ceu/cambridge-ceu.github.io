@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hosted
+title: Hostings
 permalink: /external/
 ---
 
