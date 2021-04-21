@@ -5,7 +5,7 @@ description: >-
 baseurl: ""
 url: "https://cambridge-ceu.github.io/"
 github_username:  cambridge-ceu
-twitter_username: clinical_hr
+twitter_username: CAMBRIDGE_CEU
 
 markdown: kramdown
 theme: minima
