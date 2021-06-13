@@ -13,8 +13,8 @@ See/search `citeproc` from csd3.
 
 ## NOTES
 
-The page is built with
+Example use
 
-```
-bundle exec jekyll build
+```bash
+pandoc README.md --citeproc --mathjax -s --self-contained -o index.html
 ```
