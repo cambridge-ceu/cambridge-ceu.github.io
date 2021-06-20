@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SEGEG-registration-open"
+title:  "SEGEG registration is open"
 date:   2021-06-14 16:13 +0000
 categories: new entries in csd3
 ---
