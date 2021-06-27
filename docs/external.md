@@ -4,6 +4,7 @@ title: Hostings
 permalink: /external/
 ---
 
+* EWAS-fusion [https://cambridge-ceu.github.io/EWAS-fusion/](https://cambridge-ceu.github.io/EWAS-fusion/) [![](github.svg)](https://github.com/cambridge-ceu/EWAS-fusion)
 * METAL [https://cambridge-ceu.github.io/METAL/](https://cambridge-ceu.github.io/METAL/) [![](github.svg)](https://github.com/cambridge-ceu/METAL)
 * phenoscanner [![](github.svg)](https://github.com/cambridge-ceu/phenoscanner)
 * pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/) [![](github.svg)](https://github.com/cambridge-ceu/pQTLtools)
