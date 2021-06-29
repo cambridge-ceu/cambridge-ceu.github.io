@@ -5,7 +5,7 @@ date:   2021-06-29 14:12 +0000
 categories: new entries in cambridge-cue
 ---
 
-See `hail` entry fromm the csd3 repository.
+See `hail` entry from the csd3 repository.
 
 <!--more-->
 
