@@ -26,7 +26,7 @@ cd docs/_posts
   echo
   echo "## NOTES"
   echo
-  echo A post is a file YYYY-MM-DD-${title_of_post}.ext in _posts with the required front matter.
+  echo A post is a file YYYY-MM-DD-title_of_post.ext in _posts with the required front matter.
 
 ) > ${name_of_post}
 
