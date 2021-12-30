@@ -14,7 +14,7 @@ cd docs/_posts
 
 (
   echo ---
-  echo layout: post
+  echo layout: page
   echo title:  "${title_of_post}"
   echo date:   `date "+%F %Z %T +%N"`
   echo header:
