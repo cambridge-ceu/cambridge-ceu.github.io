@@ -7,15 +7,15 @@
 layout: frontpage
 widget1:
   title: "Internal repositories"
-  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/internal/'
+  url: 'https://cambridge-ceu.github.io/internal/'
   text: 'Information most approprite for university-wide use.'
 widget2:
   title: "Public repositories"
-  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/public/'
+  url: 'https://cambridge-ceu.github.io/public/'
   text: 'Developed/forked repositories for public use.'
 widget3:
   title: "Blog"
-  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/blog/'
+  url: 'https://cambridge-ceu.github.io/blog/'
   text: 'A quick overview of all blog posts.'
 #
 # Use the call for action to show a button on the frontpage
