@@ -26,4 +26,4 @@ header:
 
 ### Contact form
 
-See [Wufoo](http://www.wufoo.com/)
+This [test form](https://jhz.wufoo.com/forms/r26oh3f1jet131/) based on [Wufoo](http://www.wufoo.com/).
