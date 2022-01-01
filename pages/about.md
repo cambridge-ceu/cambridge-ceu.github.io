@@ -8,9 +8,6 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/INF1.circlize.png)
-
 This repository contains software/documents created at the CEU. A full list of these is available from [https://github.com/cambridge-ceu](https://github.com/cambridge-ceu) or the GitHub menu button.
 
 The topics cover but are not limited to multi-omics analysis.
