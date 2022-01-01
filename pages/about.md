@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "GitHub"
+subheadline: ""
 teaser: ""
 permalink: "/about/"
 header:
