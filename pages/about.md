@@ -18,7 +18,9 @@ The topics cover but are not limited to multi-omics analysis.
 
 Our beloved ![]({{ site.url }}{{ site.baseurl }}/assets/images//github.svg) is an offspring of the great figure at [https://tinyurl.com/temf27hm](https://tinyurl.com/temf27hm).
 
-The earlier version is now renamed as [https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/](https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/).
+The earlier version is still available:
+
+[https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/](https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/)
 
 This is the base [jekyll][jekyll-organization] theme as documented at [jekyllrb.com][jk], [Github Pages][gh-site] and [official docs][gh].
 
