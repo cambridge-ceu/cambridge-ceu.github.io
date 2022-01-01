@@ -44,7 +44,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
+![Home to the GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University]({{ site.url }}{{ site.baseurl }}/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
