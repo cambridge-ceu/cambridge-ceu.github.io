@@ -22,8 +22,6 @@ header:
 > Wort’s Causeway,
 > Cambridge, CB1 8RN, UK
 
-See also [https://www.phpc.cam.ac.uk/ceu/erfc/contact-us/](https://www.phpc.cam.ac.uk/ceu/erfc/contact-us/).
-
 ---
 
 ## Recommended contact form
