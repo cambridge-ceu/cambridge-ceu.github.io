@@ -2,7 +2,7 @@
 layout: page
 title: "Information"
 subheadline: ""
-teaser: "Some are appropriate internal use but most information is also generic."
+teaser: "-- Some are appropriate internal use but most information is also generic."
 permalink: "/internal/"
 header:
     image_fullwidth: "header-bus.jpg"

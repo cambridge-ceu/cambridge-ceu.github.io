@@ -2,7 +2,7 @@
 layout: page
 title: "Repositories"
 subheadline: ""
-teaser: ""
+teaser: "-- Developed/forked software"
 permalink: "/public/"
 header:
     image_fullwidth: "header-bus.jpg"
