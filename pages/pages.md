@@ -15,7 +15,7 @@ header:
    - url:  [https://cambridge-ceu.github.io/public/](https://cambridge-ceu.github.io/public/)
    - text: Developed/forked repositories for public use.
 
-## Posts
+## Blog posts
    - url:  [https://cambridge-ceu.github.io/blog/](https://cambridge-ceu.github.io/blog/)
    - text: 'A quick overview of all posts.'
 
