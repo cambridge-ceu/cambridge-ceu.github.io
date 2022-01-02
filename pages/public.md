@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Repositories"
+title: "Public repositories"
 subheadline: ""
 teaser: "-- Developed/forked software"
 permalink: "/public/"
