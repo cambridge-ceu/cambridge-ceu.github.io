@@ -2,6 +2,7 @@
 layout: page
 title: "Public repositories"
 subheadline: ""
+teaser: "..."
 permalink: "/public/"
 header:
     image_fullwidth: "header-bus.jpg"

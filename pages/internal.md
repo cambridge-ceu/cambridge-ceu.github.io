@@ -2,6 +2,7 @@
 layout: page
 title: "Internal repositories"
 subheadline: ""
+teaser: "..."
 permalink: "/internal/"
 header:
     image_fullwidth: "header-bus.jpg"
