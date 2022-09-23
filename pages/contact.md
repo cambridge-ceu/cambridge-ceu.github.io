@@ -30,7 +30,7 @@ Move to [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) 
 > Cambridge Biomedical Campus
 > Cambridge
 > CB2 0BB 
-> Email: xx@medschl.cam.ac.uk / Website: https://www.phpc.cam.ac.uk/ceu/
+> Email: xx@medschl.cam.ac.uk
 
 ## Web page
 
