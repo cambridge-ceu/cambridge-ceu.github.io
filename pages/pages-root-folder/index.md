@@ -17,7 +17,10 @@ widget3:
   title: "Blog posts"
   url: 'https://cambridge-ceu.github.io/blog/'
   text: 'A quick overview of all blog posts.'
-  ![]({{ site.url }}{{ site.baseurl }}/assets/images/qrcode.svg)
+widget4:
+  title: ""
+  url:  ![]({{ site.url }}{{ site.baseurl }}/assets/images/qrcode.svg)
+  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
