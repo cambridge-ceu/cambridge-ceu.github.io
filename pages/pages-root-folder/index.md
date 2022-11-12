@@ -19,7 +19,7 @@ widget3:
   text: 'A quick overview of all blog posts.'
 widget4:
   title: "QR code"
-  image: assets/images/qrcode.svg
+  image: qrcode.svg
   text: ''
 #
 # Use the call for action to show a button on the frontpage
