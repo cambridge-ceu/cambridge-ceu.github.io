@@ -19,7 +19,7 @@ widget3:
   text: 'A quick overview of all blog posts.'
 widget4:
   title: ""
-  url:  '{{ site.url }}{{ site.baseurl }}/assets/images/qrcode.svg'
+  url:  '![]({{ site.url }}{{ site.baseurl }}/assets/images/qrcode.svg)'
   text: ''
 #
 # Use the call for action to show a button on the frontpage
