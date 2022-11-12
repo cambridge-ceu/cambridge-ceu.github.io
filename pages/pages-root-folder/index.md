@@ -17,7 +17,7 @@ widget3:
   title: "Blog posts"
   url: 'https://cambridge-ceu.github.io/blog/'
   text: 'A quick overview of all blog posts.'
-  <img src="{{ site.urlimg }}{{ qrcode.svg }}" />
+  ![]({{ site.url }}{{ site.baseurl }}/assets/images/qrcode.svg)
 #
 # Use the call for action to show a button on the frontpage
 #
