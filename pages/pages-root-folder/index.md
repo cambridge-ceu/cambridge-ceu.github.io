@@ -16,11 +16,8 @@ widget2:
 widget3:
   title: "Blog posts"
   url: 'https://cambridge-ceu.github.io/blog/'
-  text: 'A quick overview of all blog posts.'
-widget4:
-  title: "QR code"
   image: qrcode-50.svg
-  text: ''
+  text: 'A quick overview of all blog posts.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -49,7 +46,6 @@ header:
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
-![]({{ site.url }}{{ site.baseurl }}/assets/images/qrcode-50.svg)
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
