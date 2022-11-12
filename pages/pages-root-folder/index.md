@@ -18,7 +18,7 @@ widget3:
   url: 'https://cambridge-ceu.github.io/blog/'
   text: 'A quick overview of all blog posts.'
 widget4:
-  title: ""
+  title: "QR code"
   url:  '![]({{ site.url }}{{ site.baseurl }}/assets/images/qrcode.svg)'
   text: ''
 #
