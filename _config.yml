@@ -38,7 +38,7 @@ improve_content: https://github.com/cambridge-ceu/cambridge-ceu.github.io/edit/g
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https:///cambridge-ceu.github.io/assets/images'
+urlimg: 'https:///cambridge-ceu.github.io/assets/images/'
 
 # https://www.logodesign.net/logos
 # Logo size is 600x80 pixels
