@@ -16,7 +16,7 @@ widget2:
 widget3:
   title: "Blog posts"
   url: 'https://cambridge-ceu.github.io/blog/'
-  image: qrcode-50.svg
+  image: qrcode-25.svg
   text: 'A quick overview of all blog posts.'
 #
 # Use the call for action to show a button on the frontpage
