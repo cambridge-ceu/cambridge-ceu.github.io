@@ -10,6 +10,8 @@
     url: "/internal/"
   - title: "Public"
     url: "/public/"
+  - title: "github"
+    url: "/github/"
   - title: "about"
     url: "/about/"
 
