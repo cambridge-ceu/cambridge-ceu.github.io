@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "GitHub"
 subheadline: ""
 teaser: ""
 permalink: "/github/"
