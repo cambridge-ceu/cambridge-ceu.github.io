@@ -8,11 +8,11 @@ layout: frontpage
 widget1:
   title: "Internal repositories"
   url: 'https://cambridge-ceu.github.io/internal/'
+  image: qrcode-50.svg
   text: 'These are written for internal use but a lot of information is generic.'
 widget2:
   title: "Public repositories"
   url: 'https://cambridge-ceu.github.io/public/'
-  image: qrcode-50.svg
   text: 'Developed/hosted software for public use.'
 widget3:
   title: "Blog posts"
