@@ -6,22 +6,22 @@
 #
 layout: frontpage
 widget1:
+  title: "GitHub"
+  url: 'https://github.com/cambridge-ceu/'
+  text: 'GitHub repositories.'
+widget2:
   title: "Internal repositories"
   url: 'https://cambridge-ceu.github.io/internal/'
   image: qrcode-50.svg
   text: 'These are written for internal use but a lot of information is generic.'
-widget2:
+widget3:
   title: "Public repositories"
   url: 'https://cambridge-ceu.github.io/public/'
   text: 'Developed/hosted software for public use.'
-widget3:
+widget4:
   title: "Blog posts"
   url: 'https://cambridge-ceu.github.io/blog/'
   text: 'A quick overview of all blog posts.'
-widget4:
-  title: "GitHub"
-  url: 'https://github.com/cambridge-ceu/'
-  text: 'GitHub repositories.'
 #
 # Use the call for action to show a button on the frontpage
 #
