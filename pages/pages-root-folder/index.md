@@ -12,6 +12,7 @@ widget1:
 widget2:
   title: "Public repositories"
   url: 'https://cambridge-ceu.github.io/public/'
+  image: qrcode-50.svg
   text: 'Developed/hosted software for public use.'
 widget3:
   title: "Blog posts"
@@ -20,7 +21,6 @@ widget3:
 widget4:
   title: "GitHub"
   url: 'https://github.com/cambridge-ceu/'
-  image: qrcode-50.svg
   text: 'GitHub repositories.'
 #
 # Use the call for action to show a button on the frontpage
