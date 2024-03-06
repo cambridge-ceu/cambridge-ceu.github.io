@@ -18,6 +18,7 @@ header:
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/METAL) METAL <https://cambridge-ceu.github.io/METAL/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/MRC-Epid/MetabolomicsGWAS_INTERVAL_EPICNorfolk) MetabolomicsGWAS_INTERVAL_EPICNorfolk
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/miamiPlot) miamiPlot
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/rkabacoff/datavis_support) Modern Data Visualization in R, <https://rkabacoff.github.io/datavis/index.html>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/PGScatalog/pgsc_calc) pgsc_calc, <https://pgsc-calc.readthedocs.io/en/latest/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner) phenoscanner
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLdata) pQTLdata
