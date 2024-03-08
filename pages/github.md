@@ -1,8 +1,11 @@
 ---
+layout: page
 title: "GitHub"
-layout: redirect
-sitemap: false
-redirect_to:  "https://github.com/cambridge-ceu/"
+subheadline: ""
+teaser: ""
+permalink: "/github/"
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 Quick link to GitHub: [https://github.com/cambridge-ceu][gh]
