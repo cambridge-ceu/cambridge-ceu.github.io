@@ -10,10 +10,12 @@
     url: "/internal/"
   - title: "Public"
     url: "/public/"
-  - title: "github"
-    url: "/github/"
   - title: "about"
     url: "/about/"
+
+- title GitHub
+  url: "/github/"
+  side: right
 
 - title: Blog
   url: "/blog/"
