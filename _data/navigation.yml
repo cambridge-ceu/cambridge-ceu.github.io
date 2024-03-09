@@ -14,7 +14,7 @@
     url: "/about/"
 
 - title: GitHub
-  url: "/github/"
+  url: "https://github.com/cambridge-ceu/"
   side: right
 
 - title: Blog
