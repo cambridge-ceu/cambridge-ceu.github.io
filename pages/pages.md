@@ -8,7 +8,7 @@ header:
 ---
 
 ## GitHub
-   - url:  <https://github.com/cambridge-ceu>
+   - url:  <https://github.com/cambridge-ceu/>
    - text: 'GitHub page.'
 
 ## Internal repositories
