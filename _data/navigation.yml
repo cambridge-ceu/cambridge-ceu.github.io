@@ -2,10 +2,6 @@
   url: "/"
   side: right
 
-- title: GitHub
-  url: "https://github.com/cambridge-ceu/"
-  side: right
-
 - title: Pages
   url: "/pages/"
   side: right
@@ -23,6 +19,10 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+- title: GitHub
+  url: "https://github.com/cambridge-ceu/"
+  side: right
 
 - title: "Search"
   url: "/search/"
