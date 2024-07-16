@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 gemspec
 
 gem "github-pages"
-gem 'jekyll', '~> 4.3.3'  # Example version, update as needed
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
