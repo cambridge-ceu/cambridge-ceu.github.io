@@ -7,10 +7,6 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-## GitHub
-   - url:  <https://github.com/cambridge-ceu/>
-   - text: 'GitHub page.'
-
 ## Internal repositories
    - url:  <https://cambridge-ceu.github.io/internal/>
    - text: Information most approprite for university-wide use.
@@ -18,6 +14,10 @@ header:
 ## Public repositories
    - url:  <https://cambridge-ceu.github.io/public/>
    - text: Developed/forked repositories for public use.
+
+## GitHub
+   - url:  <https://github.com/cambridge-ceu/>
+   - text: 'GitHub page.'
 
 ## Blog
    - url:  <https://cambridge-ceu.github.io/blog/>
