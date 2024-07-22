@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cambridge-ceu.github.io/sitemap.xml
