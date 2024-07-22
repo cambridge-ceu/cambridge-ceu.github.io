@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://cambridge-ceu.github.io/</id>
+	<title>cambridge-ceu</title>
+	<updated>2024-07-22T16:00:49+01:00</updated>
+
+	<subtitle>GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>jinghuazhao</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://cambridge-ceu.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://cambridge-ceu.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.9.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/ceuadmin-modules-are-piling-up/</id>
+			<title>ceuadmin modules are piling up</title>
+			<link href="https://cambridge-ceu.github.io/ceuadmin-modules-are-piling-up/" rel="alternate" type="text/html" title="ceuadmin modules are piling up" />
+			<updated>2022-12-23T09:45:58+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/ceuadmin-modules-are-piling-up/">&lt;h3 id=&quot;details-are-available-from-httpscambridge-ceugithubiocsd3systemsceuadminhtml&quot;&gt;Details are available from &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html&quot;&gt;https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Notable examples are pspp, RStudio, snakemake, OpenMS and many others&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-12-23T09:45:58+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/Alphapept-and-pyOpenMS-are-documented/</id>
+			<title>Alphapept and pyOpenMS are documented</title>
+			<link href="https://cambridge-ceu.github.io/Alphapept-and-pyOpenMS-are-documented/" rel="alternate" type="text/html" title="Alphapept and pyOpenMS are documented" />
+			<updated>2022-09-27T14:01:37+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/Alphapept-and-pyOpenMS-are-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationspyopenmshtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;It is subject to further refinement.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-09-27T14:01:37+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/snipar-is-added-to-csd3/</id>
+			<title>snipar is added to csd3</title>
+			<link href="https://cambridge-ceu.github.io/snipar-is-added-to-csd3/" rel="alternate" type="text/html" title="snipar is added to csd3" />
+			<updated>2022-09-26T09:56:24+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/snipar-is-added-to-csd3/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssniparhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/snipar.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/snipar.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This follows a recent Nat Genet publication outlining methods for Mendelian Randomisation analysis involving family data.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-09-26T09:56:24+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/DNAnexus-is-documented/</id>
+			<title>DNAnexus is documented</title>
+			<link href="https://cambridge-ceu.github.io/DNAnexus-is-documented/" rel="alternate" type="text/html" title="DNAnexus is documented" />
+			<updated>2022-06-21T15:49:09+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/DNAnexus-is-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationsdnanexushtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/DNAnexus.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/DNAnexus.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This is to be refined.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-06-21T15:49:09+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/PSPP-1.6.0-is-documented/</id>
+			<title>PSPP 1.6.0 is documented</title>
+			<link href="https://cambridge-ceu.github.io/PSPP-1.6.0-is-documented/" rel="alternate" type="text/html" title="PSPP 1.6.0 is documented" />
+			<updated>2022-06-16T10:11:55+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/PSPP-1.6.0-is-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationspspphtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/pspp.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/pspp.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This is an update to 1.2.0/1.4.1&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-06-16T10:11:55+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/CookHLA-documented-in-csd3/</id>
+			<title>CookHLA documented in csd3</title>
+			<link href="https://cambridge-ceu.github.io/CookHLA-documented-in-csd3/" rel="alternate" type="text/html" title="CookHLA documented in csd3" />
+			<updated>2022-04-28T18:53:31+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/CookHLA-documented-in-csd3/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationscookhlahtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/CookHLA.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/CookHLA.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;It also covers SNP2HLA&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-04-28T18:53:31+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/The-latest-METAL-is-described/</id>
+			<title>The latest METAL is described</title>
+			<link href="https://cambridge-ceu.github.io/The-latest-METAL-is-described/" rel="alternate" type="text/html" title="The latest METAL is described" />
+			<updated>2022-04-14T21:19:23+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/The-latest-METAL-is-described/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationsmetalhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/METAL.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/METAL.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;It also contains one way of modification on the output.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-04-14T21:19:23+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/circos-is-documented-at-csd3/</id>
+			<title>circos is documented at csd3</title>
+			<link href="https://cambridge-ceu.github.io/circos-is-documented-at-csd3/" rel="alternate" type="text/html" title="circos is documented at csd3" />
+			<updated>2022-04-07T21:22:54+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/circos-is-documented-at-csd3/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationscircoshtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/circos.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/circos.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Finally moved from &lt;a href=&quot;https://jinghuazhao.github.io/Computational-Statistics/LANGUAGES/#perl&quot;&gt;Computational Statistics&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-04-07T21:22:54+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/METRO-is-documented/</id>
+			<title>METRO is documented</title>
+			<link href="https://cambridge-ceu.github.io/METRO-is-documented/" rel="alternate" type="text/html" title="METRO is documented" />
+			<updated>2022-03-25T20:07:34+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/METRO-is-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3rmetrohtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/R/METRO.html&quot;&gt;https://cambridge-ceu.github.io/csd3/R/METRO.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Multi-ancEstry TRanscriptOme-wide analysis (METRO)&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-03-25T20:07:34+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://cambridge-ceu.github.io/snakemake-documentation-updated/</id>
+			<title>snakemake documentation updated</title>
+			<link href="https://cambridge-ceu.github.io/snakemake-documentation-updated/" rel="alternate" type="text/html" title="snakemake documentation updated" />
+			<updated>2022-03-23T21:06:26+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://cambridge-ceu.github.io/snakemake-documentation-updated/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssnakemakehtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/snakemake.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/snakemake.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;hello world/HGI MR examples are given&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-03-23T21:06:26+00:00</published>
+		</entry>
+	
+</feed>
