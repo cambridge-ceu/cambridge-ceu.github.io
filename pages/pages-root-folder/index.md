@@ -21,7 +21,7 @@ widget4:
   title: "GitHub"
   url: 'https://github.com/cambridge-ceu/'
   text: 'GitHub repositories.'
-# image: qrcode-50.svg
+  image: qrcode-50.svg
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -49,7 +49,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-# ![]({{ site.url }}{{ site.baseurl }}/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
