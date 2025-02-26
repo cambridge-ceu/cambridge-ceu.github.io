@@ -14,10 +14,6 @@ widget2:
   url: 'https://cambridge-ceu.github.io/public/'
   text: 'Developed/hosted software for public use.'
 widget3:
-  title: "Blog posts"
-  url: 'https://cambridge-ceu.github.io/blog/'
-  text: 'A quick overview of all blog posts.'
-widget4:
   title: "GitHub"
   url: 'https://github.com/cambridge-ceu/'
   text: 'GitHub repositories.'
