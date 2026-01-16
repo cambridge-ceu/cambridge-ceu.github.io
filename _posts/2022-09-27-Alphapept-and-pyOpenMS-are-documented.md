@@ -6,7 +6,7 @@ header:
    image_fullwidth: header-bus.jpg
 ---
 
-### See [https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html](https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html)
+### See [https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html](https://cambridge-ceu.github.io/csd3/applications/OpenMS.html)
 
 <!--more-->
 
