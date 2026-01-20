@@ -14,4 +14,4 @@ header:
 
 ## NOTES
 
-also listed at [https://cambridge-ceu.github.io/CEU-scientific-meetings/talks/](https://cambridge-ceu.github.io/CEU-scientific-meetings/talks/)
+also listed at [https://cambridge-ceu.github.io/CEU-matters/talks/](https://cambridge-ceu.github.io/CEU-matters/talks/)

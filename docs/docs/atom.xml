@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://cambridge-ceu.github.io/</id>
 	<title>cambridge-ceu</title>
-	<updated>2025-08-03T17:18:25+01:00</updated>
+	<updated>2026-01-16T16:53:24+00:00</updated>
 
 	<subtitle>GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University.</subtitle>
 
@@ -76,7 +76,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://cambridge-ceu.github.io/Alphapept-and-pyOpenMS-are-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationspyopenmshtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html&lt;/a&gt;&lt;/h3&gt;
+			<content type="html" xml:base="https://cambridge-ceu.github.io/Alphapept-and-pyOpenMS-are-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationspyopenmshtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/OpenMS.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html&lt;/a&gt;&lt;/h3&gt;
 
 &lt;!--more--&gt;
 

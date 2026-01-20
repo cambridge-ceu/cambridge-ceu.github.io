@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-[https://cambridge-ceu.github.io/CEU-scientific-meetings/2022/](https://cambridge-ceu.github.io/CEU-scientific-meetings/2022/)
+[https://cambridge-ceu.github.io/CEU-matters/2022/](https://cambridge-ceu.github.io/CEU-matters/2022/)
 
 <!--more-->
 
