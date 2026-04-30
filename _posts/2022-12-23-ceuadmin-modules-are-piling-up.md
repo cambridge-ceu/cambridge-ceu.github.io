@@ -6,11 +6,3 @@ header:
   image_fullwidth: header-bus.jpg
 redirect_to: https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html
 ---
-
-### Details are available from <https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html>
-
----
-
-## NOTES
-
-Notable examples are pspp, RStudio, snakemake, OpenMS and many others

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://cambridge-ceu.github.io/</id>
 	<title>cambridge-ceu</title>
-	<updated>2026-04-30T14:56:58+01:00</updated>
+	<updated>2026-04-30T15:08:34+01:00</updated>
 
 	<subtitle>GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University.</subtitle>
 
@@ -42,13 +42,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://cambridge-ceu.github.io/ceuadmin-modules-are-piling-up/">&lt;h3 id=&quot;details-are-available-from-httpscambridge-ceugithubiocsd3systemsceuadminhtml&quot;&gt;Details are available from &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html&quot;&gt;https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html&lt;/a&gt;&lt;/h3&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
-
-&lt;p&gt;Notable examples are pspp, RStudio, snakemake, OpenMS and many others&lt;/p&gt;
+			<content type="html" xml:base="https://cambridge-ceu.github.io/ceuadmin-modules-are-piling-up/">
 </content>
 
 			
